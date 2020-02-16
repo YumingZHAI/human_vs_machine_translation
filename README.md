@@ -1,4 +1,4 @@
-# human_vs_machine_translation
+# Compare human and machine translation
 
 This project provides the code for this paper:
 
